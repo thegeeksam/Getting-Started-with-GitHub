@@ -1,0 +1,42 @@
+# Fork the Repository:
+
+Fork this sample repository to your GitHub account.
+Clone the Repository:
+
+Clone the forked repository to your local machine using the git clone command.
+Create a Branch:
+
+Create a new branch named my-feature.
+Make Changes:
+
+In the project directory, create a new file named my-info.txt.
+Add a few lines introducing yourself to my-info.txt.
+Commit Changes:
+
+Commit your changes with a meaningful commit message.
+Push Changes:
+
+Push the changes to your forked repository on GitHub.
+Create a Pull Request:
+
+Navigate to the original repository.
+Create a pull request from your my-feature branch to the original repository's main branch.
+Write a Comment:
+
+Write a comment on the pull request describing the changes you made.
+Merge Pull Request:
+
+Merge the pull request into the main branch.
+Fetch Changes:
+
+Fetch the changes from the original repository to your local machine.
+Final Submission:
+
+Submit a comment on the assignment issue indicating that you have completed the tasks.
+Grading:
+
+20 points: Forked repository.
+20 points: Cloned repository locally.
+20 points: Created and switched to my-feature branch.
+20 points: Added my-info.txt with a self-introduction.
+20 points: Created a pull request and merged changes.
